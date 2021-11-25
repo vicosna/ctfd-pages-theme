@@ -11,7 +11,7 @@
 
 ```sh
 git clone https://github.com/CTFd/CTFd
-git clone https://github.com/frankli0324/ctfd-pages-theme CTFd/themes/pages
+git clone https://github.com/vicosna/ctfd-pages-theme CTFd/themes/pages
 cp CTFd/themes/pages/webpack.config.js .
 npm i && npm run build
 # 注意，如果CTFd是3.0.0+请切换分支
